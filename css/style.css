@@ -1,0 +1,29 @@
+body {
+  background-color: #2E4053;
+}
+
+#header {
+  text-align: center;
+}
+
+#title {
+  color: #fff;
+  font-size: 30px;
+  font-style: Arial, Helvetica, sans-serif;
+  margin-top: 1px;
+  margin-bottom: 0px;
+}
+
+#me, #cloud, #restart {
+  display: none;
+}
+
+#container {
+  text-align: center;
+  padding-top: 1px;
+}
+
+#gameCanvas {
+  border: 10px solid #2E86C1;
+  background-color: #fff;
+}
